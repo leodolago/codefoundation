@@ -1,0 +1,1 @@
+<h5>Todos os direitos reservados - <?php echo $data = date("Y"); ?></h5>
